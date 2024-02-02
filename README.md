@@ -26,4 +26,4 @@ Clone the repository:
 
 # How It Works
 - End-of-File Marker Exploitation: Utilises the JPEG EOF marker (FFD9) to append data without affecting the image display.
-Contributing
+
